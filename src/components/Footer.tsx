@@ -8,7 +8,7 @@ export default function Footer() {
     <footer className="py-12 px-6 md:px-12 border-t border-gray-100 dark:border-white/10">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8">
         <a href="#home" className="text-2xl font-bold tracking-tighter">
-          TEGUH<span className="text-primary">.</span>
+          Teguh <span className="text-primary">Firmansyah</span>
         </a>
 
         <p className="text-sm text-secondary dark:text-gray-400 flex items-center gap-1">

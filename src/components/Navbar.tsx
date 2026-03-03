@@ -41,7 +41,7 @@ export default function Navbar() {
     >
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <a href="#home" className="text-2xl font-bold tracking-tighter">
-          TEGUH<span className="text-primary">.</span>
+          Teguh <span className="text-primary">Firmansyah</span>
         </a>
 
         {/* Desktop Nav */}
